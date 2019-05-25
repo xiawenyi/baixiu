@@ -1,0 +1,15 @@
+http://localhost/baixiu/index.php  ǰ̨��ҳ
+
+http://localhost/baixiu/admin/index.php  ��̨��ַ
+
+http://localhost/baixiu/admin/login.php ��¼ҳ��
+
+
+���� ���ݿ� db_baixiu
+
+��db_baixiu
+ �Ҽ� ����sql  ���ҵ� tables.sql ��  ��ʼ
+ 
+ �ظ� ����comments.sql �򿪿�ʼ
+
+ �ظ� ����posts.sql �򿪿�ʼ
